@@ -62,7 +62,7 @@ project/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/LearnWithDhruv/NLP-Bert-.git
+   git clone https://github.com/DhruvKhatter03/NLP-Bert-.git
    cd your-repository
    
 2. pip install -r requirements.txt
