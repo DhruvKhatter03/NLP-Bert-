@@ -66,17 +66,17 @@ project/
    cd your-repository
    
 2. pip install -r requirements.txt
-Usage
+3. Usage
 Place your PDF files in data/textbooks/.
 
 Run the main script to extract text, embed chunks, and create the RAPTOR index:
 
-bash
+4.bash
 Copy code
 python main.py
 Follow the prompts or integrate your own queries for text retrieval and question answering.
 
-Dependencies
+5.Dependencies
 PyMuPDF
 Sentence Transformers (SBERT)
 Scikit-learn
