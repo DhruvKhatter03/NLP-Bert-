@@ -1,0 +1,7 @@
+pymupdf
+nltk
+sentence-transformers
+openai
+pymilvus
+rank-bm25
+scikit-learn
