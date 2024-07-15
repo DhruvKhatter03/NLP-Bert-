@@ -73,7 +73,7 @@ Run the main script to extract text, embed chunks, and create the RAPTOR index:
 
 4. bash
 Copy code
-5. python main.py
+5. python main.py,
 Follow the prompts or integrate your own queries for text retrieval and question answering.
 
 6. Dependencies
