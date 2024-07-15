@@ -77,8 +77,8 @@ Copy code
 Follow the prompts or integrate your own queries for text retrieval and question answering.
 
 6. Dependencies
-PyMuPDF
-Sentence Transformers (SBERT)
-Scikit-learn
-Milvus
+PyMuPDF,
+Sentence Transformers (SBERT),
+Scikit-learn,
+Milvus,
 Other dependencies listed in requirements.txt
